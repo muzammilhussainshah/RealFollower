@@ -1,0 +1,5 @@
+export const SET_CONFIG = "SET_CONFIG";
+export const SET_SETTING = "SET_SETTING";
+export const ADD_FAVORITE = "ADD_FAVORITE";
+export const REMOVE_FAVORITE = "REMOVE_FAVORITE";
+export const SET_FAVORITE = "SET_FAVORITE";
